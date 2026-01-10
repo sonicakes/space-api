@@ -23,3 +23,10 @@ Clone this repository and install the dependencies:
 git clone [https://github.com/your-username/space-tourism-api.git](https://github.com/your-username/space-tourism-api.git)
 cd space-tourism-api
 npm install
+```
+
+### 3. Running API locally
+Run this in your terminal:
+```bash
+node index.js
+```
