@@ -9,7 +9,10 @@ I'm practicing React Router v7 & fetching data for different routes.
 - **Fast & Lightweight:** Built with Express.js.
 - **Categorized Endpoints:** Access specific data for destinations, crew, or tech.
 - **CORS Enabled:** Ready to be consumed by frontend frameworks like React, Vue, or Next.js.
-
+- **Deployed on Render** Available paths:
+1. [Destinations](https://space-api-n2m0.onrender.com/api/destinations)
+2. [Crew](https://space-api-n2m0.onrender.com/api/crew)
+3. [Technology](https://space-api-n2m0.onrender.com/api/technology)
 ---
 
 ## 💻 Getting Started
